@@ -1,4 +1,5 @@
 *Changes to re-import - test
+*changes to re-import - test02
 REPORT Z_DEMO_03.
 TYPES: BEGIN OF ty_final,
   matnr TYPE mara-matnr,
